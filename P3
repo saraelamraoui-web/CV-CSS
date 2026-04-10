@@ -1,0 +1,66 @@
+
+
+body{
+    font-family : Arial ;
+    background-color : #f4f4f4;
+
+}
+.container {
+    width : 60% ;
+    margin : auto;
+    background: white;
+    padding : 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+
+}
+h2{
+    color: #333;
+    border-bottom: 2px solid lightblue;
+
+}
+p{
+    font-size: 14px;
+}
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border : 3px solid #2c7da0 ;
+
+}
+h1{
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.A{
+    color: palevioletred;
+    font-weight:bold;
+    margin:10px;
+}
+.gras{
+    font-weight:bold;
+}
+.B{
+    color:brown;
+    font-weight:bold;
+}
+.C{
+   color: hotpink ;
+   font-weight: bold;
+   margin:10px ;
+}
+.D{
+    color: darkred;
+    font-weight: bold;
+    margin:10px;
+}
+.profile{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid;
+}
